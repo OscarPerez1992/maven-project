@@ -1,4 +1,4 @@
 /**
-* Paquete de ejmplo
+* Paquete de ejmplo.
 */
 package com.example;
